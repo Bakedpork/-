@@ -36,12 +36,12 @@ client.on('message', message => {
   	}
 });
 client.on('message', message => {
-    if (message.content === 'YT) {
+    if (message.content === 'YT') {
     	message.reply('https://www.youtube.com/channel/UCLlcPDPQ4wo9WhUL2CR2RWw?view_as=subscriber');
   	}
 });
 client.on('message', message => {
-    if (message.content === 'LonelyYT) {
+    if (message.content === 'LonelyYT') {
     	message.reply('https://www.youtube.com/channel/UCiL9eRN8QbWCOuw8HD_LOpA');
   	}
 });
